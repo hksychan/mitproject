@@ -1,3 +1,5 @@
+#Project - natural language processing / multi topic classification problem
+
 library(stringr)
 library(tidyquant)
 library(tm)
