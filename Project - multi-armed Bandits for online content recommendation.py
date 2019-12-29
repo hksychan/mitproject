@@ -1,3 +1,5 @@
+#Project - multi-armed Bandits for online headline news recommendation
+
 #!/usr/bin/env python
 # coding: utf-8
 
