@@ -1,4 +1,4 @@
-# Project B - Shing Yin Chan
+# Naive long/short strategy
 
 cat("\014") # clear console
 rm(list=ls()) # clear memory
